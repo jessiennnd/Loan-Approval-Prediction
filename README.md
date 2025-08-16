@@ -77,4 +77,7 @@ It comprises **20,000 records** of personal and financial data, providing a comp
 - Conducted **Grid Search with cross-validation** to find the optimal `k`.  
 - Visualized accuracy trends across different values of `k`.  
 - Compared distance metrics: **Euclidean, L1 (Manhattan), and Cosine**.  
-- Selected the best configuration based on **F1-score and cross-validation accuracy**.  
+- Selected the best configuration based on **F1-score and cross-validation accuracy**.
+
+## Key Insight
+Logistic Regression performed slightly better overall—its predictions on testing data were more accurate and balanced. KNN was close but a tiny bit lower, especially in F1-score. It may be due to Logistic Regression can capture the overall patterns more efficiently with selected features, while KNN depends on local similarities and can be affected by data density or noise.
