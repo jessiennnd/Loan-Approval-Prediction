@@ -1,4 +1,6 @@
-# Loan Approval Prediction
+# Loan Approval Prediction (Supervised machine learning project)
+
+This is my project to practice machine learning, mainly logistic regression and KNN, and to get hands-on with feature selection, model evaluation, and predictive analytics.
 
 ## Project Overview
 This project analyzes a **Loan Approval dataset** (20,000 records) containing demographic, financial, and credit-related information.  
